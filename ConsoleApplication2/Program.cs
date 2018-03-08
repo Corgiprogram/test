@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             var ji3cl3gj94 = me;
+            var ejiej04wu/6 =cl3t.3;
         }
     }
 }
